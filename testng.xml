@@ -3,7 +3,7 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="/Users/suleymankirkil/Downloads/JenkinsAutomationTestProject">
         <classes>
-            <class name="mpack.FirstClass">
+            <class name="mpack.FirstClassdegisiklik">
                 <methods>
                     <include name="test01"/>
                 </methods>
